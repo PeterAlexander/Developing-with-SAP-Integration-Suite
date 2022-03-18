@@ -7,3 +7,8 @@ In this repository we would like to provide you with all this information. Addit
 
 ## Who I am ?
 My name is Peter Alexander and I am an employee of SAP. I am a co-author of these materials. You can reach me at pe.alexander@sap.com. 
+
+## What can you expect?
+Information on current challenges, such as errors, changes, clarifications and much more. I try to keep this page up to date.
+
+But for this I also need you. I will post the found fixes from the community page at : https://groups.community.sap.com/t5/sap-btp-learning-blog-posts/exercise-content-for-learning-journey-developing-with-sap/ba-p/1764.
