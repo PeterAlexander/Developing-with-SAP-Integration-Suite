@@ -10,3 +10,9 @@ For known bugs I provide the fixes here.
 | Where can I found the solution?:  | Check file March_2022-SLACK.md|
 
 
+## Missing Steps and files
+| | Solutions|
+|---|-----|
+| Error description:  |Missing steps - import of the generated mapping is missing|
+| In which exercise are changes necessary:  |Generate and Consume Integration Advisor Artifacts|
+| Where can I found the solution?:  |check CLD900_SAP_Integration_Suite-Ex9.pdf at AdditionalFiles directory |
