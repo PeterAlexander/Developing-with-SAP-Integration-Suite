@@ -2,7 +2,7 @@
 Free material and additional information to pass the excercises at https://learning.sap.com/learning-journey/developing-with-sap-integration-suite.
 
 ## Why a GitHub repository?
-The exercises at https://learning.sap.com/learning-journey/developing-with-sap-integration-suiteare updated periodically. However, changes to the tools or other events may make the exercises unfeasible. 
+The exercises at [https://learning.sap.com/learning-journey/developing-with-sap-integration-suite](https://learning.sap.com/learning-journey/developing-with-sap-integration-suite) are updated periodically. However, changes to the tools or other events may make the exercises unfeasible.
 In this repository we would like to provide you with all this information. Additionally the needed scripts . 
 
 ## Where to start?
