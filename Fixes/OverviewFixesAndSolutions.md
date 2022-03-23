@@ -7,7 +7,7 @@ For known bugs I provide the fixes here.
 |---|-----|
 | Error description:  | You cannot write messages to slack based on a missing entry within the OAuth Scope.|
 | In which exercise are changes necessary:  | Create an API Based on the Slack Account|
-| Where can I found the solution?:  | Check file [March_2022-SLACK.md](../main/AdditionalFiles/March_2022-SLACK.md) at AdditionalFiles directory|
+| Where can I found the solution?:  | Check file [March_2022-SLACK.md](../AdditionalFiles/March_2022-SLACK.md) at AdditionalFiles directory|
 
 
 ## Missing Steps and files - March 2022
@@ -15,4 +15,4 @@ For known bugs I provide the fixes here.
 |---|-----|
 | Error description:  |Missing steps - import of the generated mapping is missing|
 | In which exercise are changes necessary:  |Generate and Consume Integration Advisor Artifacts|
-| Where can I found the solution?:  |Check file [CLD900_SAP_Integration_Suite-Ex9.pdf](../main/AdditionalFiles/CLD900_SAP_Integration_Suite-Ex9.pdf)at AdditionalFiles directory |
+| Where can I found the solution?:  |Check file [CLD900_SAP_Integration_Suite-Ex9.pdf](../AdditionalFiles/CLD900_SAP_Integration_Suite-Ex9.pdf)at AdditionalFiles directory |
