@@ -1,7 +1,8 @@
 #  What you can expect here?
 For known bugs I provide the fixes here.
 
-## Errors open today
+# Errors open today
+## Additional step with SLACK instanz
 
 | Errors | Solutions|
 |---|-----|
@@ -18,4 +19,4 @@ For known bugs I provide the fixes here.
 | Where can I found the solution?:  |Check file [CLD900_SAP_Integration_Suite-Ex9.pdf](../AdditionalFiles/CLD900_SAP_Integration_Suite-Ex9.pdf)at AdditionalFiles directory |
 | status: |
 
-## Errors fixed
+# Errors fixed
