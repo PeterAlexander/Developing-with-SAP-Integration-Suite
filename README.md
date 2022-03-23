@@ -8,6 +8,7 @@ In this repository we would like to provide you with all this information. Addit
 ## Where to start?
 Start here with the file [/Fixes/OverviewFixesAndSolutions.md](../Fixes/OverviewFixesAndSolutions.md) to find an overview of current fixes with solutions.
 
+
 ## Who I am ?
 My name is Peter Alexander and I am an employee of SAP. I am a co-author of these materials. You can reach me at pe.alexander@sap.com. 
 
