@@ -6,7 +6,7 @@ The exercises at https://learning.sap.com/learning-journey/developing-with-sap-i
 In this repository we would like to provide you with all this information. Additionally the needed scripts . 
 
 ## Where to start?
-Start here with the file [/Fixes/OverviewFixesAndSolutions.md](../Fixes/OverviewFixesAndSolutions.md) to find an overview of current fixes with solutions.
+Start here with the file [/Fixes/OverviewFixesAndSolutions.md](../main/Fixes/OverviewFixesAndSolutions.md) to find an overview of current fixes with solutions.
 
 
 ## Who I am ?
