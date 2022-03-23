@@ -3,7 +3,7 @@ For known bugs I provide the fixes here.
 
 ## Changes based on SLACK - March 2022
 
-| | Solutions|
+| Errors | Solutions|
 |---|-----|
 | Error description:  | You cannot write messages to slack based on a missing entry within the OAuth Scope.|
 | In which exercise are changes necessary:  | Create an API Based on the Slack Account|
@@ -11,7 +11,7 @@ For known bugs I provide the fixes here.
 
 
 ## Missing Steps and files - March 2022
-| | Solutions|
+| Errors | Solutions|
 |---|-----|
 | Error description:  |Missing steps - import of the generated mapping is missing|
 | In which exercise are changes necessary:  |Generate and Consume Integration Advisor Artifacts|
