@@ -2,7 +2,7 @@
 For known bugs I provide the fixes here.
 
 # Errors open today
-## Additional step with SLACK instanz
+## Additional step needed with SLACK instanz
 
 | Errors | Solutions|
 |---|-----|
