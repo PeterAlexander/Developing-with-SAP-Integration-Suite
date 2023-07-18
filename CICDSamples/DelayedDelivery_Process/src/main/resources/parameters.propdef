@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><parameters><parameter>
+      <key/>
+      <name>parameter_3</name>
+      <type>xsd:string</type>
+      <isRequired>false</isRequired>
+      <constraint/>
+      <description/>
+      <additionalMetadata>
+         <Configured>true</Configured>
+      </additionalMetadata>
+   </parameter><param_references/></parameters>
